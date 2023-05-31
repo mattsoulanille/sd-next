@@ -63,3 +63,7 @@ cache
 !/models/VAE-approx/model.pt
 !/models/Reference
 !/models/Reference/**/*
+
+# docker-specific
+/data
+docker-compose.override.yml
