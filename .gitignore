@@ -41,6 +41,7 @@ cache
 !webui.bat
 !webui.sh
 !package.json
+!requirements.txt
 
 # all dynamic stuff
 /extensions/**/*
