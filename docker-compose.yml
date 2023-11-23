@@ -13,7 +13,6 @@ services:
       - ./data:/webui/data
     command: |
       --listen
-      --skip-update
     ports:
       - "7860:7860"
     tmpfs:
